@@ -2,7 +2,7 @@
 This repository hosts the code to port NumPy model weights of BiT-ResNets [1] to TensorFlow SavedModel format. These models
 are results of [2]. The original model weights come from [3]. 
 
-Huge thanks to [Willie Gierke](https://ch.linkedin.com/in/willi-gierke) (of Google) for helping with the porting. 
+Huge thanks to [Willi Gierke](https://ch.linkedin.com/in/willi-gierke) (of Google) for helping with the porting. 
 
 The TensorFlow SavedModels are available on TensorFlow Hub as a collection: https://tfhub.dev/sayakpaul/collections/bit-resnet/1. A total of 8 models are available:
 
